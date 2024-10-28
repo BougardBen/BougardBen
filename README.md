@@ -1,3 +1,8 @@
+<!--
+<p align="left"> <img src="..\th.jpg" alt="css3" width="30" height="30"/> </a> 
+</p>
+-->
+
 <h1 align="center">Hi 👋, I'm Ben</h1>
 
 <h3 align="center">IT developer</h3>
